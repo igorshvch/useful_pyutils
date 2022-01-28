@@ -1,6 +1,11 @@
 # Useful_pyutils.py - collection of modules providing differnet file managment functionality
 
-Initial commit
+Provides following functionality:
+
+- you can choose files and directories from GUI dialog
+- you can easly collect files with particular suffixes in directories, read and write pickle binaries
+- you can quickly write results (text or iterable) to text files in directory: C:/%USERNAME%/MYWRITE/
+- you can count LOC in your project files
 
 ## Useful links for better styling
 
